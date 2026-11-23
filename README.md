@@ -2,6 +2,8 @@
 
 A compact, two-piece 3D-printable case for the XMOS XA-XTAG4 debugger. The assembled case measures **59.6 × 34.6 × 11.6 mm**. It provides access to the Micro-USB port and xSYS2 header, with labeled sight holes for the POWER and STATUS LEDs.
 
+![Assembled and exploded views of the XTAG4 enclosure](docs/XTAG4-preview.png)
+
 ## Download
 
 Get both print-oriented STL files and the assembled STEP model from the [latest release](https://github.com/JOYNED-GmbH/xtag4-enclosure/releases/latest).
